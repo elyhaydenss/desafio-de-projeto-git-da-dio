@@ -1,0 +1,4 @@
+1- pesquisar sobre os 40 digitos e as possibilidades. 
+2- git aparenta ser inutil, ver pq cargas d'agua eu irei utilizar mais pra frente
+3- sugerir para a DIO velocidade 1.75x (1.5x é muito lento, 2x é muito rapido)
+4- montar um projeto do 0 sem clonar, desafio maior

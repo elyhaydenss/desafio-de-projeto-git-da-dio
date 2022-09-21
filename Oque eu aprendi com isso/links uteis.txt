@@ -1,0 +1,5 @@
+links uteis que me salvaram durante os estudos
+
+exibir pastas ocultas (https://support.microsoft.com/pt-br/windows/exibir-pastas-e-arquivos-ocultos-no-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)
+
+revisão nos comandos para navegar no promt (https://www.alura.com.br/artigos/cmd-dicas-para-trabalhar-no-prompt-do-windows?gclid=CjwKCAjwyaWZBhBGEiwACslQo9vJdZ6v1Y-EYX07MgvmJh3CdpC3xDLA2QJtvOp21XVET0qgqrdNcxoCj9sQAvD_BwE)
